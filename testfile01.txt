@@ -1,2 +1,3 @@
 first text
 second line for the testfile01.txt
+the third line for the testfile01.txt
